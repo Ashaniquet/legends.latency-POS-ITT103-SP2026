@@ -1,7 +1,7 @@
 POS System Program
 
 Authors:
-	•	Ashanique Tomlinson Makeda Lowe
+	•	Ashanique Tomlinson , Makeda Lowe
 
 Date Created:
 	•	March 29,2026
