@@ -30,7 +30,7 @@ HOW TO RUN THE PROGRAM:
 
 
 1. Ensure Python is installed on your system.
-2. Open the file: Lowe.Makeda-POS-ITT103-SP2026.py
+2. Open the file: latency.legends-POS-ITT103-SP2026.py
 3. Run the program using:
    - PyCharm, OR
    - Command Prompt / Terminal:
