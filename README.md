@@ -8,7 +8,9 @@ GitHub Public URL to Code:https://github.com/Ashaniquet/legends.latency-POS-ITT1
 
 
 
+
 PROGRAM TITLE: POINT OF SALE (POS) SYSTEM
+
 
 PURPOSE OF THE PROGRAM:
 This program is a menu-driven Point of Sale (POS) system designed for a retail store environment. 
